@@ -6,7 +6,7 @@ export default function Footer() {
           Movie<span className="brand-gradient-text">Explorer</span>
         </p>
         <p className="text-sm text-zinc-400">
-          © {new Date().getFullYear()} MovieExplorer. All rights reserved.
+          © {new Date().getFullYear()} MovieExplorer. All rights reserved by Rudra
         </p>
         <div className="flex gap-4 text-sm text-zinc-400">
           <a href="#" className="hover:text-white">GitHub</a>
