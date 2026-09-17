@@ -67,7 +67,7 @@ export default function Movies() {
         Browse <span className="brand-gradient-text">Movies & Shows</span>
       </h1>
       <p className="mt-1 text-sm text-zinc-400">
-        Search by title, or scroll through everything TVMaze has to offer.
+        Search by title, or scroll through everything MovieExploer has to offer.
       </p>
 
       <div className="mt-6 max-w-xl">
